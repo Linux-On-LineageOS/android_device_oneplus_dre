@@ -404,3 +404,4 @@ PRODUCT_PACKAGES += \
 
 # Get non-open-source specific aspects
 $(call inherit-product, vendor/oneplus/dre/dre-vendor.mk)
+$(call inherit-product, vendor/lindroid/lindroid.mk)
